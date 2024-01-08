@@ -1,1 +1,1 @@
-# Quantitative susceptibility mapping (QSM)
+Quantitative susceptibility mapping (QSM)
